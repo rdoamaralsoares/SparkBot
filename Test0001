@@ -1,0 +1,5 @@
+context.sendResponse("Hello World!")
+function MessageHandler(context, event) 
+{
+   context.sendResponse("Hello World!") 
+}
